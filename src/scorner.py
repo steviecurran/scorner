@@ -317,13 +317,6 @@ def scorner(
 
         for j,d in enumerate(diags):
             if d == i:
-                '''
-                y1, y2 = ax.get_ylim()
-                print(i,y2)
-                #ax.set_ylim(y1,1.5*y2)
-                plt.ylim(0,1.5*y2)
-                print(i,y2)
-                '''               
                 para = sdf['para'].iloc[j]; para = para.strip('$')
                 mean =  sdf['mean'].iloc[j]; sd =  sdf['sd'].iloc[j]
                 
