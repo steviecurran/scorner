@@ -45,14 +45,14 @@ def scorner(
 ):
 
     """
-    Produces a similar plot to to corner.py, which shows the
+    Produces a similar plot to  corner.py, which shows the
     projections of data in a multi-dimensional space. This uses
-    seaborn to produce a more adjustable, 'publication ready' plot
-    through , e.g. variable axis thickness, the use of colour maps,
+    seaborn to produce a more adjustable, 'publication ready' plot,
+    e.g. through variable axis thickness, the use of colour maps,
     line styles, choice of contours/density maps and order of plotting
     in relation to scatter plot. Also included is an option to save a
     hard copy in the required format.
-
+    
     Requires
              import numpy as np
              import pandas as pd
