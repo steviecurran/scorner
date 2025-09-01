@@ -5,11 +5,6 @@ Produces a similar plot to *[corner](https://corner.readthedocs.io/en/latest/pag
 ![](https://raw.githubusercontent.com/steviecurran/scorner/refs/heads/main/sample_final.png)
 
 See src/demo.ipynb for examples
-
-Basic usage
-             import scorner as sc
-             sc.scorner(data)
-    where data is an array or dataframe
     
     Parameters
     ----------
