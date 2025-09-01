@@ -1,6 +1,6 @@
 # scorner.py
 
-Produces a similar plot to *[corner](https://corner.readthedocs.io/en/latest/pages/custom)*, which shows the projections of data in a multi-dimensional space. This uses seaborn to produce a more adjustable, 'publication ready' plot through , e.g. variable axis thickness, the use of colour maps, line styles, choice of contours/density maps and order of plotting in relation to scatter plot. Also included is an option to save a hard copy in the required format.
+Produces a similar plot to *[corner](https://corner.readthedocs.io/en/latest/pages/custom)*, which shows the projections of data in a multi-dimensional space. This uses seaborn to produce a more adjustable, 'publication ready' plot e.g. trhough variable axis thickness, the use of colour maps, line styles, choice of contours/density maps and order of plotting in relation to scatter plot. Also included is an option to save a hard copy in the required format.
 
 ![](https://raw.githubusercontent.com/steviecurran/scorner/refs/heads/main/sample_final.png)
 
