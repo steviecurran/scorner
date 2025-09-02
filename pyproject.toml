@@ -1,0 +1,18 @@
+[project]
+name = "scorner"
+version = "0.1.0"
+description = "Produces a similar plot to  corner.py, which shows the
+    projections of data in a multi-dimensional space. This uses
+    seaborn to produce a more adjustable, 'publication ready' plot"
+authors = [
+    {name = "Stephen Curran", email = "scurran.astro@gmail.com"},
+]
+requires-python = ">=3.9"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/steviecurran/scorner"
