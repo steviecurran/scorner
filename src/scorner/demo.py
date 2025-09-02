@@ -23,9 +23,7 @@ samples = np.vstack([data1, data2]);
 #value1 = mean; value2 = np.mean(samples, axis=0)
 
 #######################################################
-#import sys
-#sys.path.insert(0,'/Users/stephencurran/steviecurran.github.io/modules/scorner/src') 
-import scorner as sc
+from scorner import scorner
 
 ## DEMO 1, MINIMUM WORKING CODE
 #sc.scorner(samples,test_run=True) # DON'T NEED test_run=True, BUT FULL DATA TAKES A WHILE
