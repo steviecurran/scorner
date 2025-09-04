@@ -86,7 +86,7 @@ See src/demo.ipynb for examples
 
         Axis widths, the default is 2
 
-    aw : float
+    ap : float
 
         Axis padding, the default is 7
 
