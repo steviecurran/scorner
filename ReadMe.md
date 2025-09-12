@@ -9,11 +9,9 @@ styles, choice of contours/density maps and order of plotting in
 relation to scatter plot. Also included is an option to save a hard
 copy in the required format.
 
-`pip install scorner`
-
-`from scorner import scorner`
-
-`scorner.scorner(data)`  
+`pip install scorner`<br />
+`from scorner import scorner`<br />
+`scorner.scorner(data)`  <br />
 
 where data is an array or dataframe
 
