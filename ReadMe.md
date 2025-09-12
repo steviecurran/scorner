@@ -12,6 +12,7 @@ copy in the required format.
 `pip install scorner`
 
 `from scorner import scorner`
+
 `scorner.scorner(data)`  
 
 where data is an array or dataframe
