@@ -18,7 +18,7 @@ where data is an array or dataframe
 
 ![](https://raw.githubusercontent.com/steviecurran/scorner/refs/heads/main/sample_final.png)
 
-See src/demo.ipynb for examples
+See src/scorner/demo.ipynb for examples
     
     Parameters
     ----------
