@@ -1,5 +1,10 @@
 # scorner.py
 
+High-dimensional datasets are difficult to visualise.
+
+scorner provides corner-plot style visualisation for multidimensional datasets,
+helping analysts quickly identify correlations and structure.
+
 Produces a similar plot to
 *[corner](https://corner.readthedocs.io/en/latest/pages/custom)*,
 which shows the projections of data in a multi-dimensional space. This
